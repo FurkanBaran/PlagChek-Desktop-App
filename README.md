@@ -11,7 +11,7 @@ Detects plagiarism, shows plagiarism rate, shows location of plagiarism in docum
  Changing level (how many sequential words will be checked), and check again.
  
 ![Screenshot_8](https://user-images.githubusercontent.com/21145014/223880876-3cee8102-9572-4948-bd58-8d15b44771e6.png)
-## Serach
+## Search
 Function to find the source of words detected as plagiarism
 
 ![Screenshot_7](https://user-images.githubusercontent.com/21145014/223880857-d59f5311-7694-40cd-b28b-06073f539879.png)
