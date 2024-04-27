@@ -1,4 +1,4 @@
-# PlagChek -Instant plagiarism
+# PlagChek 
 
 Simple Python application for detecting plagiarism between text files.
 Needs one txt file to be checked and one or more txt files to be used as source.
