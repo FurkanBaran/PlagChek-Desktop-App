@@ -60,4 +60,4 @@ This project is open-sourced under the MIT License.
 
 Furkan Baran -  [furkanbaran021@gmail.com](mailto:furkanbaran021@gmail.com)
 
-Project Link: [https://github.com/FurkanBaran/PlagChek]
+Project Link: https://github.com/FurkanBaran/PlagChek-Desktop-App
