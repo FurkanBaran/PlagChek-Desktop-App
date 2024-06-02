@@ -17,8 +17,8 @@ This application requires Python and Tkinter. Ensure Python is installed on your
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/FurkanBaran/PlagCheck.git
-   cd PlagCheck
+   git clone https://github.com/FurkanBaran/PlagChek-Desktop-App.git
+   cd PlagChek-Desktop-App
 
 
 2.  **Run the application:**
